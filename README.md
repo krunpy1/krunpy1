@@ -1,16 +1,20 @@
-## Hi there 👋
+![alt](https://lh3.googleusercontent.com/d/1kcE15hEXPEWxKS_vSAmnpybvnnHcSjZ8)
 
-<!--
-**krunpy1/krunpy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# krunpy
 
-Here are some ideas to get you started:
+real name: Максим  
+from: 🇷🇺
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack:
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,go,postgres,prisma,git,github)
+
+- backend: Go, Node.js, Express
+- database: PostgreSQL
+- frontend: React, HTML, CSS, JavaScript
+- tools: git, GitHub, Docker, Prisma ORM
+
+Check out my recent project - [Moodila](https://moodila.krunpy.ru). Mood tracker with social features. ([Status page](https://status.krunpy.ru)) ([GitHub](https://github.com/krunpy0/moodila))
+
+if you want to work together, feel free to contact me:  
+tg: [@krunpy](https://t.me/krunpy), discord: dolbaeb6.w, email: [maksimglinin17984@gmail.com](mailto:maksimglinin17984@gmail.com)
